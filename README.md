@@ -1,4 +1,4 @@
-# 🏫 Edviron School Payment & Dashboard System
+# 🏫 School Payment & Dashboard System
 
 This project is a full-stack microservice-based application built using **Node.js (Express)** and **React** for managing **school payment transactions**.
 
